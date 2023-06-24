@@ -1,4 +1,4 @@
-![MasterHead](https://www.shutterstock.com/image-photo/mountains-under-mist-morning-amazing-260nw-1725825019.jpg)
+![MasterHead](./img/banner.jpg)
 
 <h1 align="center">Hola Amigos👋, I am Sujin</h1>
 <h3 align="center">A Full Stack Software Developer from TamilNadu, India</h3>
