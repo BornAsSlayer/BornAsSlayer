@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/BornAsSlayer/BornAsSlayer/blob/master/img/banner.jpg)
+[![MasterHead](<https://github.com/BornAsSlayer/BornAsSlayer/blob/master/img/banner.jpg>)]
 
 <h1 align="center">Hola Amigos👋, I am Sujin</h1>
 <h3 align="center">A Full Stack Software Developer from India</h3>
