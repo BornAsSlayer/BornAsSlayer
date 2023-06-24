@@ -1,7 +1,7 @@
-![MasterHead](img/banner.jpg)
+[![MasterHead](img/banner.jpg)]
 
 <h1 align="center">Hola Amigos👋, I am Sujin</h1>
-<h3 align="center">A Full Stack Software Developer from India</h3>
+<h3 align="center">A Full Stack Software Developer from TamilNadu, India</h3>
 
 <p align="left"> <a href="https://twitter.com/bornasslayer" target="blank"><img src="https://img.shields.io/twitter/follow/bornasslayer?logo=twitter&style=for-the-badge" alt="bornasslayer" /></a> </p>
 
