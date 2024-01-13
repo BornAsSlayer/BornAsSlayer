@@ -31,4 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bornasslayer&show_icons=true&theme=dark&locale=en" alt="bornasslayer" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats-ey3cscsmk-bornasslayer.vercel.app?user=BornAsSlayer)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-ey3cscsmk-bornasslayer.vercel.app/?user=BornAsSlayer&theme=dark)](https://github-readme-streak-stats-ey3cscsmk-bornasslayer.vercel.app/?user=BornAsSlayer&theme=dark)
