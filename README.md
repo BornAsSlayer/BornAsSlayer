@@ -7,7 +7,7 @@ Crafting Code at Dawn, Dominating Pixels at Dusk.
 🚀 Hi there! I'm a 23-year-old tech enthusiast and recent college graduate with a passion for gaming, software development, and football. By day, I'm immersed in the world of code, turning ideas into reality. By night, you'll find me exploring virtual realms and celebrating victories on the gaming battlefield. Coding isn't just a job; it's my creative playground. Let's connect the dots between bits and bytes and score goals in both the digital and real worlds! ⚽🎮💻✨
 
 * 🌍  I'm based in TamilNadu, India
-* 🧠  I'm learning .NET and Flutter
+* 🧠  I'm learning .NET
 * 🤝  I'm open to collaborating on Java, Flutter and Web Development Projects
 * ⚡  Fun fact I am Multi-skilled, I am also a GFX Artist and a Video Editor
 
